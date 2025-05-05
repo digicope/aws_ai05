@@ -1,5 +1,5 @@
 
-## (저녁)AWS AI/ML 엔지니어링 과정 (2025.05.12~07.21, 160Hr)
+## (저녁) AWS AI/ML 엔지니어링 과정 (2025.05.12~07.21, 160Hr)
 <br>
 
 ## git 주소 :    https://github.com/digicope/aws_ai054
