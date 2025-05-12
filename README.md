@@ -2,7 +2,7 @@
 ## (야간) AWS AI/ML 엔지니어링 과정 (2025.05.12~07.21, 160Hr)
 <br>
 
-## git 주소 :    https://github.com/digicope/aws_ai054
+## git 주소 :    https://github.com/digicope/aws_ai05
 #### (git 사용기간 : (2025.05.12~07.21 , 이후에는 접속 불가)
 
 
